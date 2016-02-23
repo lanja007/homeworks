@@ -1,0 +1,12 @@
+html{width: 80%;
+    margin: 0 auto;
+    background-color: #cccccc;
+    font-family: Tahoma;
+
+}
+.first {
+    color: goldenrod;
+}
+#test {
+    font-size: large; color: saddlebrown;
+}

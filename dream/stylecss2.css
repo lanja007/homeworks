@@ -1,0 +1,12 @@
+html{width: 80%;
+    margin: 0 auto;
+
+    font-family: "Bookman Old Style";
+
+}
+.first {
+    color: goldenrod;
+}
+#test {
+    font-size: large; color: saddlebrown;
+}
